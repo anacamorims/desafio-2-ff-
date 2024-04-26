@@ -1,7 +1,7 @@
 ### 🖼 Galeria de Imagens 🖥
 
 #
-Neste projeto, foi criado uma galeria de imagens onde ao clicar em uma imagem ela modal, fazendo a imagem se expandir na tela. Além disso foi implementado um botão na página inicial, que direciona o usuário para uma página secundária, onde o mesmo pode realizar pesquisas de imagens.
+Neste projeto, foi criado uma galeria de imagens onde ao clicar em uma imagem ela abre um modal, fazendo a imagem se expandir na tela. Além disso foi implementado um botão na página inicial, que direciona o usuário para uma página secundária, onde o mesmo pode realizar pesquisas de imagens.
 #
 
 ### 🛠️ Tecnologias usadas
