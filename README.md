@@ -22,7 +22,7 @@ Neste projeto, foi criado uma galeria de imagens onde ao clicar em uma imagem el
 
 ### ⚙️ Resultado 👀
 
-Acesse o site [aqui](https://anacamorims.github.io/desafio-2-frontend-fusion/)
+Acesse o site [aqui](https://anacamorims.github.io/desafio-2-ff-/)
 
 #
 
